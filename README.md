@@ -1,3 +1,5 @@
+# Uniprocessor Stochastic Simulator
+
 Python tool for scheduling experiments with stochastic arrivals & execution times.
 
 Stochastic models included: 
